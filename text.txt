@@ -1,0 +1,7 @@
+"hello"
+"world!"
+"it's"
+"me"
+"and"
+"you"
+"too"
